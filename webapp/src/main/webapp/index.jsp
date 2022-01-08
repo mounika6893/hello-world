@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New Register for DevOps Learning</h1>
-    <h2>testing updates</h2>
+    <h2>write in uppaer case</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
